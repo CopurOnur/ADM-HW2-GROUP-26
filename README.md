@@ -27,11 +27,15 @@ Research questions:
 
  	5. [RQ5]: Does being a tall player mean winning more air duels?
   
-        6. [RQ6]: Experience and Winning in the Premier League.Is there a relation?
+  6. [RQ6]: Experience and Winning in the Premier League.Is there a relation?
 
  Core Research Questions 
- 	1. [CRQ1]: What are the time slots of the match with more goals?  
- 	
+ 	1. [CRQ1]: What are the time slots of the match with more goals? 
+  
+  The CRQ1 showed an output problem when we merged all the exercise together. The real output should be:
+  ['R. Lukaku','H. Kane','R. Sterling','Gabriel Jesus','J. Vardy','Roberto Firmino','Mohamed Salah','\\u00c1lvaro Morata',
+  'M. Arnautovi\\u0107','A. Lacazette','W. Zaha','R. Mahrez']
+  
  	2. [CRQ2]: Visualize movements and passes on the pitch!
   
              
@@ -42,5 +46,14 @@ Research questions:
 #### **-theory.ipynb:**
   >How much running time does it take to execute splitSwap(a, 0, n)? (We want a Big O analysis.)
   >What does this algorithm do? Is it optimal? Describe the mechanism of the algorithm in details, we do not want to know only its final result.
+  
+---
+ 
+#### **-bonus part:**
+>In order not to have a too long and confusing 'main.ipynb' , we decided to show only the outputs of the bonus part(pdf files). The codes are really similar to the exercises with premier league except for the part of filtering the teams database.
+- serie A needs a filter that take only 'Italy'
+- ligue 1 needs a filter that take only 'France' and 'Monaco'
+- bundesliga needs a filter that take only 'Germany'
+- liga needs a filter that take only 'Spain'
 
   
