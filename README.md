@@ -4,7 +4,7 @@ The goal of this assignment is to perform an analysis on the largest open collec
 
 ## The repository consists of the following files:
 
-#### **-ADM_HW2.ipynb:**
+#### **-main.ipynb:**
   > A Jupyter notebook which provides the solutions to all research questions and to all the core research questions.
   ---
 
@@ -39,7 +39,7 @@ Research questions:
 ```
 
 ---
-#### **-Theoretical Question By(Onur Copur).ipynb:**
+#### **-theory.ipynb:**
   >How much running time does it take to execute splitSwap(a, 0, n)? (We want a Big O analysis.)
   >What does this algorithm do? Is it optimal? Describe the mechanism of the algorithm in details, we do not want to know only its final result.
 
