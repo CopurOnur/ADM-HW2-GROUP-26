@@ -5,12 +5,12 @@ The goal of this assignment is to perform an analysis on the largest open collec
 ## The repository consists of the following files:
 
 #### **-ADM_HW2.ipynb:**
-  > A Jupyter notebook which provides the solutions to all research questions.
+  > A Jupyter notebook which provides the solutions to all research questions and to all the core research questions.
   ---
 
 ---
 
- Research questions:
+
 
 ```javascript
 
